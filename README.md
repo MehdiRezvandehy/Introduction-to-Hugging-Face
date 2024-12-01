@@ -1,4 +1,4 @@
-"# Introduction-to-Hugging-Face" 
+# Introduction-to-Hugging-Face
 
 Hugging Face is a leading AI company and a prominent player in the field of natural language processing (NLP). They are best known for their open-source contributions, especially the `transformers` library, which provides access to a wide range of pre-trained models that can be used for a variety of NLP tasks. These models include state-of-the-art architectures such as BERT, GPT, T5, and many others, which have been pre-trained on large datasets and can be fine-tuned for specific tasks with minimal effort. 
 
